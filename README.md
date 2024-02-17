@@ -35,3 +35,5 @@ As a huge Arsenal fan, I created a map themed around Arsenal's colors, red and w
 This project was an exploration of geographic phenomena within Seattle, employing Mapbox and custom tilesets to visualize diverse themes ranging from educational geography to personal interests. Each map is designed with a specific focus, demonstrating the versatility and potential of GIS and web mapping technologies to convey information in unique and meaningful ways.
 
 Thank you for exploring my Seattle Area Maps Project!
+
+http://127.0.0.1:5500/labs/lab04/index.html
